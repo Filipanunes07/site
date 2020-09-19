@@ -1,0 +1,64 @@
+ul{background:#424242;
+    padding: 0px;
+}
+
+
+li{
+    color:white;
+    display: inline-block;
+    padding: 8px;
+}
+
+
+br{
+    height: 4px;
+    background: #000000;
+    width:100px;
+}
+
+
+.carousel{
+    height: 200px;
+    background: #EEEEEE;
+}
+
+.fellows{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    padding:30px;
+}
+
+h2{
+    display:inline-block;
+    margin:6px;
+    font-weight: bold;
+}
+
+.imagens{
+    display:flex;
+    justify-content: center;
+}
+
+.image{
+    height: 400px;
+    background: #EEEEEE;
+    width: 30%;
+    padding:8px;
+    margin:8px;
+}
+hr{
+
+    height:4px;
+    background: #000000;
+    margin-top: 80px;
+    padding: 0px 10px;
+}
+.contacts{
+    display:flex;
+    flex-direction: column;
+    
+}
+input,textarea{
+    margin: 6px;
+}
